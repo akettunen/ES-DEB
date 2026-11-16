@@ -105,7 +105,7 @@ fn main() {
         out.push_str(LOGO.get(i).copied().unwrap_or("              "));
         out.push_str(RE);
         if let Some((k, v)) = info.get(i) {
-            out.push_str(LA); // <- tähän LA
+            out.push_str(LA);
             out.push_str(k);
             out.push_str(RE);
             out.push_str(": ");
