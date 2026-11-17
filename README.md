@@ -12,6 +12,7 @@ Hello & thanks for visiting this repostory. ES-DEB is a [Debian](https://debian.
 
 # Basics
 Preinstalled: [ES-DE](https://es-de.org) (Launches on startup), [RetroArch](https://www.retroarch.com/), [Kitty](https://sw.kovidgoyal.net/kitty/) & [Firefox](https://www.firefox.com/en-US/)
+
 Desktop environment: [xfce4](https://www.xfce.org/)
 
 
