@@ -14,4 +14,6 @@ Hello & thanks for visiting this repostory. ES-DEB is a [Debian](https://debian.
 + Preinstalled: [ES-DE](https://es-de.org) (Launches on startup), [RetroArch](https://www.retroarch.com/)
 
 # Pictures
+<img width="2878" height="1617" alt="image" src="https://github.com/user-attachments/assets/745538be-f4dc-4350-ba05-baf43418b07a" />
+
 <img width="1536" height="1149" alt="image" src="https://github.com/user-attachments/assets/a759ec08-b268-4919-b344-434c6982ccfe" />
