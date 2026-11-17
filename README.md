@@ -11,7 +11,8 @@ Hello & thanks for visiting this repostory. ES-DEB is a [Debian](https://debian.
 7. Your all set, thank you for using ES-DEB!
 
 # Basics
-+ Preinstalled: [ES-DE](https://es-de.org) (Launches on startup), [RetroArch](https://www.retroarch.com/)
+Preinstalled: [ES-DE](https://es-de.org) (Launches on startup), [RetroArch](https://www.retroarch.com/), [Kitty](https://sw.kovidgoyal.net/kitty/) & [Firefox](https://www.firefox.com/en-US/)
+
 
 # Pictures
 <img width="2878" height="1617" alt="image" src="https://github.com/user-attachments/assets/745538be-f4dc-4350-ba05-baf43418b07a" />
